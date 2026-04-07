@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.github.io',
+	'https://52dh.pages.dev',
 ];
 var foreverUrls = [
     'https://52crdh.net',JumpPage
