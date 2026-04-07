@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[
 	'52crdh.com/', 
-	'/', 
-    '/', 
+	'52crdh.com/', 
+    '52crdh.com/', 
 ];                                                                                                                  
 
 var JumpPage="https://52crdh.net";
