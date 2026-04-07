@@ -36,10 +36,9 @@ var emails = [
     '52crdh@gmail.com'
 ];
 
-var urls=[
-	'52crdh.com',
-];
-                                                                                                                  
+var urls=[];
+    urls.push(".52crdh.com");  
+                                                                                                                         
 var JumpPage="https://52crdh.net";
 
 var newestUrls = [];
@@ -51,17 +50,14 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://52dh.pages.dev',
-];
-[
 	'https://52dh.github.io',
 ];
 
 var foreverUrls = [
     'https://52crdh.net',JumpPage
+	'https://52crdh.com',
 ];
- [
-    'https://52crdh.com',JumpPage
-];
+ 
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
     //'* 为了防止域名劫持而无法访问，请设置手机和PC的DNS，我们推荐使用8.8.8.8和1.1.1.1。',
