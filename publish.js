@@ -55,7 +55,6 @@ var otherUrls = [
 
 var foreverUrls = [
     'https://52crdh.net',JumpPage
-	'https://52crdh.com',
 ];
  
 var notices = [
