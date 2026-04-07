@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'52crdh.net',
+	'52crdh.com',
 ];
                                                                                                                   
 var JumpPage="https://52crdh.net";
