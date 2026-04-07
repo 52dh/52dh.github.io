@@ -36,13 +36,15 @@ var emails = [
     '52crdh@gmail.com'
 ];
 
-var urls=[];
-    urls.push(".52crdh.com");  
-                                                                                                                         
+var urls=[
+	'52crdh.com/', 
+	'/', 
+    '/', 
+];                                                                                                                  
+
 var JumpPage="https://52crdh.net";
 
 var newestUrls = [];
-
 
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +'.' + urls[randomNum(0,urls.length-1)]);
@@ -50,13 +52,11 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://52dh.pages.dev',
-	'https://52dh.github.io',
+	'https://52dh.github.io/',
 ];
-
 var foreverUrls = [
     'https://52crdh.net',JumpPage
 ];
- 
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
     //'* 为了防止域名劫持而无法访问，请设置手机和PC的DNS，我们推荐使用8.8.8.8和1.1.1.1。',
@@ -130,7 +130,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问52成人导航'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问51成人导航'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
