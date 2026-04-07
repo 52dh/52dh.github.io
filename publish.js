@@ -52,12 +52,15 @@ for(var i =0;i<urls.length*3;i++){
 var otherUrls = [
 	'https://52dh.pages.dev',
 ];
-var otherUrls = [
+[
 	'https://52dh.github.io',
 ];
 
 var foreverUrls = [
     'https://52crdh.net',JumpPage
+];
+ [
+    'https://52crdh.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
