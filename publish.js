@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[
 	'52crdh.com/', 
-	
-  
+	'hmqvxrhi.cc/', 
+    'gunskjtnt.com/',
 ];                                                                                                                  
 
-var JumpPage="https://52crdh.net";
+var JumpPage="https://mnpbfqtp.cc";
 
 var newestUrls = [];
 
