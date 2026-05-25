@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'djfzodaup.cc/', 
-	'cpzchzmle.cc/', 
-    'rtmptwcvv.cc/',
+	'mlmwaleoe.cc/', 
+	'kbfsgzcot.cc/', 
+    'djfzodaup.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://vdpvdamy.cc";
