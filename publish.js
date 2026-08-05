@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'kwdeypgl.cc/', 
 	'agonazhvs.cc/', 
-	'bqnukcem.cc/', 
-    'efrfufnw.com/',
+    'bqnukcem.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://agonazhvs.cc";
