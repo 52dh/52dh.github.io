@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[
 	'hjjnzjbo.cc/', 
-	'otdjpmrte.cc/', 
+	'nhagcftrp.cc/', 
     'drodcvni.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://xvuzxqthd.cc";
+var JumpPage="https://nggjsjwkp.cc";
 
 var newestUrls = [];
 
