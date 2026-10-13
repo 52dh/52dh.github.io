@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'xh96u08v.cc',
 	'purchpio.cc',
 	'llesbhwrw.cc',
-	'hjjnzjbo.cc',
 ];                                                                                                                  
 
-var JumpPage="https://axjdchas.cc";
+var JumpPage="https://cm07z19q.cc";
 
 var newestUrls = [];
 
