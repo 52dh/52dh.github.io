@@ -42,7 +42,7 @@ var urls=[
 	'purchpio.cc',
 ];                                                                                                                  
 
-var JumpPage="https://cm07z19q.cc";
+var JumpPage="https://dd12gzycc.cc";
 
 var newestUrls = [];
 
